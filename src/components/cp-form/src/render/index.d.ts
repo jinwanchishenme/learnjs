@@ -1,0 +1,9 @@
+export function inputRender(h: any, item: any, opts: any): any[];
+export function numberRender(h: any, item: any, opts: any): any[];
+export function textRender(h: any, item: any, opts: any): any[];
+export function customRender(h: any, item: any, opts: any): any[];
+export function slotRender(h: any, item: any, opts: any): any[];
+export function switchRender(h: any, item: any, opts: any): any[];
+export function checkboxRender(h: any, item: any, opts: any): any[];
+export function radioRender(h: any, item: any, opts: any): any[];
+export function selectRender(h: any, item: any, opts: any): any[];
